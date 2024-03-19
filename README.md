@@ -6,4 +6,4 @@ Level 1 has been passed on Friday, 01/03/2024.
 
 Level 2 has been completed on Tuesday, 19/03/2024
 
-Currently working on Level 2: Hardware design with Logisim Evolution
+Currently working on Level 3: Learning Verilog with HDL Bits.
